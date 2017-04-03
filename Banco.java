@@ -15,5 +15,15 @@ class Conta{
 }
 
 class Corrente extends Conta{
-	
+
+}
+
+class Poupança extends Conta{
+	int variacao;
+}
+
+class Banco{
+	public static void main(String args[]){
+
+	}
 }
